@@ -15,12 +15,12 @@ Korte introductie voor ZZP’ers die direct aan de slag willen met facturen, off
 - AI instructies voor Copilot/ChatGPT
 
 ## Start in 5 minuten
-1) Open `README.md` voor een kort overzicht van de mappen.  
-2) Bepaal je prijs en aanbod met `pricing/offertes-and-pricing.md`.  
-3) Maak je eerste offerte met `quotes/offerte-nl.md`.  
-4) Zet een factuur klaar met `invoices/invoice-nl.md` (of `invoices/invoice-en.md`).  
-5) Houd kosten en BTW bij met `finance/expense-tracker.md` en `finance/btw-calculator.md`.  
-6) Gebruik de klantprompts in `clients/client-emails.md` en `clients/client-management.md` voor communicatie.  
+1) Open `README.md` voor een kort overzicht van de mappen.
+2) Bepaal je prijs en aanbod met `pricing/offertes-and-pricing.md`.
+3) Maak je eerste offerte met `quotes/offerte-nl.md`.
+4) Zet een factuur klaar met `invoices/invoice-nl.md` (of `invoices/invoice-en.md`).
+5) Houd kosten en BTW bij met `finance/expense-tracker.md` en `finance/btw-calculator.md`.
+6) Gebruik de klantprompts in `clients/client-emails.md` en `clients/client-management.md` voor communicatie.
 7) Wil je AI gebruiken? Lees `ai/COPILOT_PROMPT.md` en kopieer een prompt.
 
 ## Tips voor gebruik

@@ -37,6 +37,8 @@ KvK-nummer: [00000000] *(indien van toepassing)*
 | **Vervaldatum:** | [15-01-2025] |
 | **Betalingstermijn:** | 14 dagen |
 
+Gebruik het datumformaat **DD-MM-JJJJ**.
+
 ---
 
 ## Omschrijving

@@ -38,6 +38,8 @@ Telefoon: [06-87654321]
 | **Offertedatum:** | [01-01-2025] |
 | **Geldig tot:** | [15-01-2025] |
 
+Gebruik het datumformaat **DD-MM-JJJJ**.
+
 ---
 
 ## Projectomschrijving
