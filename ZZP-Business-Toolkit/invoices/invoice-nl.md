@@ -1,4 +1,6 @@
-# FACTUUR
+# FACTUUR (NL)
+
+Kant-en-klaar factuursjabloon voor Nederlandse ZZP’ers. Kopieer dit document naar Word of Google Docs en vervang de velden tussen [ ] met je gegevens.
 
 ---
 
@@ -34,6 +36,8 @@ KvK-nummer: [00000000] *(indien van toepassing)*
 | **Factuurdatum:** | [01-01-2025] |
 | **Vervaldatum:** | [15-01-2025] |
 | **Betalingstermijn:** | 14 dagen |
+
+Gebruik het datumformaat **DD-MM-JJJJ**.
 
 ---
 
