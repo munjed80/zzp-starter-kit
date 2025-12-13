@@ -19,7 +19,7 @@ Context:
 - Doelklant: [type klant]
 - Waarom ik mail: [aanleiding]
 - Resultaat dat ik lever: [resultaat/benefit]
-- Tone: zakelijk, menselijk, niet “salesy”
+- Toon: zakelijk, menselijk, niet “salesy”
 
 Vereisten:
 - Onderwerpregel
@@ -39,7 +39,7 @@ Details:
 - Klant: [bedrijf/naam]
 - Dienst: [dienst]
 - Doel: een kort kennismakingsgesprek plannen
-- Tone: professioneel, warm, to-the-point
+- Toon: professioneel, warm, to-the-point
 
 Vereisten:
 - Onderwerpregel
@@ -65,7 +65,7 @@ Vereisten:
 - Korte intro (1–2 zinnen)
 - 6–8 gerichte vragen (genummerd), praktisch (geen vage vragen)
 - CTA: vraag om antwoorden + mogelijkheid voor korte call
-- Tone: zakelijk en behulpzaam
+- Toon: zakelijk en behulpzaam
 
 ---
 
@@ -88,7 +88,7 @@ Vereisten:
 - 1 alinea: samenvatting van de opdracht in gewone taal
 - Bullet list: wat is inbegrepen + wat niet
 - Duidelijke next step: “Akkoord per mail” + factuurmoment
-- Tone: zelfverzekerd, niet agressief
+- Toon: zelfverzekerd, niet agressief
 - Max 180 woorden
 
 ---
@@ -159,7 +159,7 @@ Vereisten:
 - Onderwerpregel
 - Bedanken + korte reden (geen uitgebreide uitleg)
 - 1 alternatief aanbieden (doorverwijzing of later moment)
-- Tone: professioneel, respectvol
+- Toon: professioneel, respectvol
 - Max 120 woorden
 
 ---

@@ -1,4 +1,6 @@
-# INVOICE
+# INVOICE (EN)
+
+Ready-to-use invoice template for international clients. Copy to Word or Google Docs and replace the fields in [ ] with your details.
 
 ---
 

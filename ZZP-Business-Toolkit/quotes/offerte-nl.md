@@ -1,4 +1,6 @@
-# OFFERTE
+# OFFERTE (NL)
+
+Professioneel offertesjabloon voor ZZP’ers. Kopieer naar Word of Google Docs en vervang alle velden tussen [ ] met je gegevens en projectdetails.
 
 ---
 

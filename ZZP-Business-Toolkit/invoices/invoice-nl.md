@@ -1,4 +1,6 @@
-# FACTUUR
+# FACTUUR (NL)
+
+Kant-en-klaar factuursjabloon voor Nederlandse ZZP’ers. Kopieer dit document naar Word of Google Docs en vervang de velden tussen [ ] met je gegevens.
 
 ---
 
